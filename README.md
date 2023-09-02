@@ -4,10 +4,10 @@
 
 ### Tenho 19 anos
 
-### Sou Estudante de Desenvolvimento de Sistemas
+### :mortar_board: Sou Estudante de Desenvolvimento de Sistemas
 
 ### Objetivo: Buscar novas experiências no mercado de tecnologia, com foco em desenvolvimento web, aplicativos móveis e inteligência artificial. 
-### Determinado, curioso e pronto para aprender e contribuir para soluções inovadoras!
+### :fire: Determinado, curioso e pronto para aprender e contribuir para soluções inovadoras!
 
 
 ## Conecte-se comigo!
@@ -19,9 +19,16 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4) ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5) ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KlarcAP&theme=shadow_red&bg_color=000&show_icons=true) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KlarcAP&theme=shadow_red&bg_color=000)
+
+<a href="https://github-readme-stats.vercel.app/api?username=KlarcAP">
+
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KlarcAP&theme=tokyonight&bg_color=000&show_icons=true" />
+</a>
+<a href="https://github.com/KlarcAP/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KlarcAP&bg_color=000&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+</a>
 
 ## Minhas contribuições
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=KlarcAP&repo=dio-lab-open-source&theme=shadow_red&bg_color=000&show_icons=true&show_owner)](https://github.com/KlarcAP/dio-lab-open-source)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=KlarcAP&repo=dio-lab-open-source&theme=tokyonight&bg_color=000&show_icons=true&show_owner)](https://github.com/KlarcAP/dio-lab-open-source)
 
