@@ -1,34 +1,91 @@
-# KlarcAP
+<h1 align="center">Olá, eu sou o Klarc 👋</h1>
 
-### Me chamo Klarc
+<p align="center">
+Estudante de T.I • Estagiário • Focado em Infraestrutura, Cloud e Automação
+</p>
 
-### Tenho 19 anos
+---
 
-### :mortar_board: Sou Estudante de Desenvolvimento de Sistemas
+## 🚀 Sobre mim
 
-### Objetivo: Buscar novas experiências no mercado de tecnologia, com foco em desenvolvimento web, aplicativos móveis e inteligência artificial. 
-### :fire: Determinado, curioso e pronto para aprender e contribuir para soluções inovadoras!
+Atualmente atuo na área de T.I com foco em suporte, automações e organização de processos internos.
 
+Tenho interesse em:
+- Infraestrutura e Redes
+- Cloud Computing
+- Automação de Processos
+- Desenvolvimento de soluções internas
+- Integrações e produtividade
 
-## Conecte-se comigo!
+Busco evoluir constantemente através de projetos práticos, documentação e aprendizado contínuo.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&)](www.linkedin.com/in/klarc-almeida-908774162) [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&)](https://www.discord.com/in/504162901360115712/)
+---
 
-## Habilidades
+## 🛠️ Tecnologias e Ferramentas
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4) ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5) ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
+<div align="left">
 
-## GitHub Stats
+<img src="https://skillicons.dev/icons?i=windows,linux,git,github,vscode,aws,azure,docker,js,nodejs,python,mysql" />
 
-<a href="https://github-readme-stats.vercel.app/api?username=KlarcAP">
+</div>
 
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KlarcAP&theme=tokyonight&bg_color=000&show_icons=true" />
-</a>
-<a href="https://github.com/KlarcAP/convoychat">
-  <img height=198 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KlarcAP&bg_color=000&layout=compact&langs_count=8&card_width=300&theme=tokyonight" />
-</a>
+---
 
-## Minhas contribuições
+## 📌 Projetos em destaque
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=KlarcAP&repo=dio-lab-open-source&theme=tokyonight&bg_color=000&show_icons=true&show_owner)](https://github.com/KlarcAP/dio-lab-open-source)
+### 🔹 Sistema de Controle / RMS
+Projeto voltado para gerenciamento interno utilizando automações e organização de fluxo operacional.
 
+**Stack:** Monday.com, automações, integrações e lógica de processos.
+
+---
+
+### 🔹 Automações para Processos Internos
+Criação de fluxos automatizados para otimizar tarefas repetitivas e reduzir retrabalho.
+
+**Foco:** produtividade, padronização e eficiência operacional.
+
+---
+
+### 🔹 Estudos e Laboratórios de Infraestrutura
+Repositório com estudos práticos sobre:
+- Redes
+- Windows Server
+- Linux
+- Cloud
+- Virtualização
+
+---
+
+## 📚 Atualmente estudando
+
+- AWS Cloud Practitioner
+- GitHub Foundations
+- Redes e Infraestrutura
+- Docker
+- Automação com JavaScript e Python
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=transparent" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=transparent" />
+
+</div>
+
+---
+
+## 📫 Contato
+
+- LinkedIn: [https://linkedin.com/in/seulink](https://www.linkedin.com/in/klarc-almeida-908774162/)
+- Email: klarcalmeida@email.com
+
+---
+
+## ⚡ Objetivo
+
+Construir uma carreira sólida em tecnologia, desenvolvendo soluções úteis, escaláveis e bem estruturadas.
